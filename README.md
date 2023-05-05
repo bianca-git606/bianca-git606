@@ -1,13 +1,18 @@
-# 💫 Bianca Fiedalan
+<img src ="https://github.com/bianca-git606/bianca-git606/blob/main/github-banner.png">
 
-**Developer/Artist**
-
-Kumusta! I am Bianca, a developer and an artist. I am IT graduate of Information Systems from Whitireia Polytechnic Campus and I like to incorporate my love of art to every website, application or game that I build.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' style='padding-right:10px;' height='30'>](https://github.com/bianca-git606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' style='padding-right:10px;' height='30'>](https://www.linkedin.com/in/b-fiedalan/)  
 ---
 
-### 🧰 Languages and Tools
+## Kumusta! <img align="left" width="200px" height="200px" src="https://github.com/bianca-git606/bianca-git606/blob/main/avatar.gif">
+I am Bianca, a developer and an artist. I am IT graduate of Information Systems from Whitireia Polytechnic Campus and I like to incorporate my love of art to every website, application or game that I build.
+
+
+##
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' style='padding-right:20px;' height='30'>](https://github.com/bianca-git606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' style='padding-right:20px; padding-bottom:100px;' height='30'>](https://www.linkedin.com/in/b-fiedalan/)  
+
+---
+
+## 🧰 Languages and Tools <img align="left" width="200px" height="200px" src="https://github.com/bianca-git606/bianca-git606/blob/main/code.gif">
+
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
