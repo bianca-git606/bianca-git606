@@ -11,10 +11,14 @@ I am Bianca, a developer and an artist. I am IT graduate of Information Systems 
 
 ---
 
-## 🧰 Languages and Tools <img align="left" width="200px" height="200px" src="https://github.com/bianca-git606/bianca-git606/blob/main/code.gif">
+<img align="left" width="200px" height="200px" src="https://github.com/bianca-git606/bianca-git606/blob/main/code.gif">
 
 
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+## Tech Stack
+
+
+
+</br> <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -23,4 +27,17 @@ I am Bianca, a developer and an artist. I am IT graduate of Information Systems 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> </br>
+
+</br> </br>
+</br>
+
+---
+
+<h2 style="text-align:center;"> 🧙‍♀️ Github Stats</h2>
+
+![bianca-git606's Stats](https://github-readme-stats.vercel.app/api?username=bianca-git606&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![bianca-git606's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bianca-git606&theme=tokyonight&hide_border=true)
+
+![bianca-git606's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bianca-git606&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
