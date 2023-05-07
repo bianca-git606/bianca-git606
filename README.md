@@ -3,7 +3,7 @@
 ---
 
 ## Kumusta! <img align="left" width="200px" height="200px" src="https://github.com/bianca-git606/bianca-git606/blob/main/avatar.gif">
-I am Bianca, a developer and an artist. I am IT graduate of Information Systems from Whitireia Polytechnic Campus and I like to incorporate my love of art to every website, application or game that I build.
+I am Bianca, a developer and an artist. I am an IT graduate of Information Systems from Whitireia Polytechnic Campus and I like to incorporate my love of art to every website, application or game that I build.
 
 
 ##
